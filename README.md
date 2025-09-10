@@ -1,5 +1,5 @@
 # 🎱 sobre mim:
-🔭 estudante, apaixonado por tecnologia<br>👯 estou buscando ajudar em testes de softwares diversos p/ experiência<br>🤝 busco collab para desenvolver um PDV com interface intuitiva<br>🌱 eu estou atualmente aprendendo javascript/react/bootstrap<br>💬 me pergunte sobre TI<br>⚡ 
+🔭 estudante, apaixonado por tecnologia<br>👯 estou buscando ajudar em testes de softwares diversos p/ experiência<br>🤝 busco collab para desenvolver um PDV com interface intuitiva<br>🌱 eu estou atualmente aprendendo javascript/react/bootstrap<br>💬 me pergunte sobre TI<br> 
 
 
 # 🌐 redes sociais:
